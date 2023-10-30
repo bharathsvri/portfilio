@@ -234,3 +234,7 @@ nav ul li a:hover::after {
 .dodgerblue{
   color:rgb(94, 0, 245);
 }
+
+.lgt{
+  background-color:#ffffff;
+}

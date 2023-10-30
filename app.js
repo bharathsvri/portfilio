@@ -27,5 +27,7 @@ function change() {
   subTitle.classList.toggle("light");
   let para1=document.querySelector(".para-1");
   para1.classList.toggle("dodgerblue");
+  let header=document.getElementById("nav");
+  header.classList.toggle("lgt");
 }
 
